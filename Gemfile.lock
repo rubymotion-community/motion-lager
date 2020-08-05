@@ -1,0 +1,19 @@
+PATH
+  remote: .
+  specs:
+    motion-lager (1.0.0)
+
+GEM
+  remote: https://rubygems.org/
+  specs:
+    rake (13.0.1)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  motion-lager!
+  rake
+
+BUNDLED WITH
+   2.0.2
